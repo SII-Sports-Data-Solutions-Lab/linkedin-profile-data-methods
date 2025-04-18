@@ -3,7 +3,7 @@ This project explores multiple methods for extracting LinkedIn profile data, inc
 
 ## Project Presentation
 
-📎 [Click here to view the full presentation on Google Slides](https://docs.google.com/presentation/d/17XtAASlxablzulB64PRe5_D3dWZKDz1tVLIJO-cOTKw/edit?usp=sharing)
+ [Click here to view the full presentation on Google Slides](https://docs.google.com/presentation/d/17XtAASlxablzulB64PRe5_D3dWZKDz1tVLIJO-cOTKw/edit?usp=sharing)
 
 ## Topics Covered
 
