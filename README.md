@@ -1,11 +1,11 @@
 # Linkedin-profile-data-methods
 This project explores multiple methods for extracting LinkedIn profile data, including official APIs, web scraping, and third-party tools. It highlights the pros, cons, and ethical considerations of each approach using a detailed Google Slides presentation.
 
-## 📊 Project Presentation
+## Project Presentation
 
 📎 [Click here to view the full presentation on Google Slides](https://docs.google.com/presentation/d/17XtAASlxablzulB64PRe5_D3dWZKDz1tVLIJO-cOTKw/edit?usp=sharing)
 
-## 📌 Topics Covered
+## Topics Covered
 
 -  **LinkedIn API**: Usage limits, access via OAuth, and how to request developer access
 -  **Web Scraping**: Techniques, anti-bot protections, and when scraping is considered a violation
